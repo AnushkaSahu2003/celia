@@ -258,7 +258,7 @@ tl.to("#divv", {
     start: `top -10%`,
     end: `top -50%`,
     scroller: `#main`,
-    markers:true,
+    // markers:true,
     pin: true,
     scrub: 4,
   }
